@@ -3,9 +3,9 @@
 
 ## 1. Document Information
 
-| Version | Date | Author | Description |
+| Version | Date | | Description |
 |-------|------|------|-------------|
-| 1.0 | 2026-03-10 | Prasanna | Initial FRD for Daily Report System |
+| 1.0 | 2026-03-10 | | Initial FRD for Daily Report System |
 
 ---
 
