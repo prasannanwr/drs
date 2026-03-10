@@ -158,7 +158,7 @@ Frontend:
 - JavaScript
 
 Database:
-- MySQL
+- MySQL/MangoDB
 
 ---
 
